@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://F:/download/SpringBootUnity" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/async" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/core" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/crawler" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/freemarker" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/javase" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/mongodb" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/multipleSource" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/mybatis" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/rabbitmq" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/redis" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/scheduled" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/security" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/socket" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/thymeleaf" charset="UTF-8" />
+    <file url="file://F:/download/SpringBootUnity/website" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://F:/project/QuartzTest" charset="UTF-8" />
+  </component>
+</project>
